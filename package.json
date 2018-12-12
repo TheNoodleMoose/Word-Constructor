@@ -1,0 +1,26 @@
+{
+  "name": "word-constructor",
+  "version": "1.0.0",
+  "description": "Word Guess Game Using Constructors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNoodleMoose/Word-Constructor.git"
+  },
+  "keywords": [
+    "Node",
+    "Constructors"
+  ],
+  "author": "Christian Huffman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheNoodleMoose/Word-Constructor/issues"
+  },
+  "homepage": "https://github.com/TheNoodleMoose/Word-Constructor#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
